@@ -1,2 +1,1 @@
-# senaio
-abubabu
+console.log
